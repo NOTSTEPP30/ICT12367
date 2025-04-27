@@ -6,7 +6,7 @@ ICT12367 Project
 ภายในโปรเจกต์มีตัวอย่างการทำงานเกี่ยวกับ Python, Web Development และ Data Processing
 
 
-git clone https://github.com/NOTSTEPP30/ICT12367.git
+download File 
 
 ติดตั้ง Python (ถ้ายังไม่มี)
 สามารถดาวน์โหลด Python ได้จาก python.org
