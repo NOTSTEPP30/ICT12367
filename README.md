@@ -6,7 +6,9 @@ ICT12367 Project
 ภายในโปรเจกต์มีตัวอย่างการทำงานเกี่ยวกับ Python, Web Development และ Data Processing
 
 
-download File 
+download File  
+
+จากนั้น แตกไฟล์ที่เรา download มา
 
 ติดตั้ง Python (ถ้ายังไม่มี)
 สามารถดาวน์โหลด Python ได้จาก python.org
