@@ -15,7 +15,11 @@ download File
 จากนั้นใช้ คำสั่ง pip install django
 
 
+
+
 django-admin startproject moviereview
+
+
 
 
 cd moviereview
