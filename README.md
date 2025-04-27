@@ -24,6 +24,11 @@ cd moviereview
 python manage.py runserver
 
 
+
+
+******** ถ้าลืมรหัสเข้า Data base ให้ใช้คำสั่งตามนี้
+
+
 python manage.py migrate
 
 
