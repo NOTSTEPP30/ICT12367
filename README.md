@@ -21,7 +21,7 @@ django-admin startproject moviereview
 cd moviereview
 
 
-python manage.py startapp reviews
+python manage.py runserver
 
 
 python manage.py makemigrations
