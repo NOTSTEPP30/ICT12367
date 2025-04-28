@@ -49,3 +49,11 @@ manage.py
 
 ![image](https://github.com/user-attachments/assets/9fc49dbe-4a29-419c-a9e3-0e9660618726)
 
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/90c6ed31-c3c1-4135-8ac3-67beeded339b)
+
+
